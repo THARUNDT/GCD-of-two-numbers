@@ -18,9 +18,9 @@ Compare the two values, to find the smaller number.
 Use for() and if() loop to find the GCD of the two numbers.
 
 ## Program:
-#Program to findthe gcd of number usinf functions
-#Developed By : THARUN D
-#RgisterNumber : 23013993
+# Program to findthe gcd of number usinf functions
+# Developed By : THARUN D
+# RgisterNumber : 23013993
 ~~~
 def gcd():
     a=int(input())
